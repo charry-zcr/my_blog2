@@ -5,7 +5,7 @@
 # IntelliJ project files
 .idea
 *.iml
+my_blog/settings.py
 out
 gen
 
-my_blog/settings.py
