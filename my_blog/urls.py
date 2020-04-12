@@ -1,5 +1,5 @@
 """my_blog URL Configuration
-
+这时候是第二次提交的
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.1/topics/http/urls/
 Examples:
