@@ -7,7 +7,6 @@
 *.iml
 out
 gen
-.gitignore
-.idea/
+
 
 my_blog/settings.py
