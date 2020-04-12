@@ -7,4 +7,5 @@
 *.iml
 out
 gen
-peace_blog/settings.py
+
+my_blog/settings.py
