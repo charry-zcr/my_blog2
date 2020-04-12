@@ -7,6 +7,4 @@
 *.iml
 out
 gen
-
-
 my_blog/settings.py
